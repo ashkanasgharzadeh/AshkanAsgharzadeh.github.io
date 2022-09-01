@@ -1,3 +1,6 @@
+---
 layout: page
-title: "Publications"
+title: Publications
 permalink: /publications/
+---
+The list of my publications.
