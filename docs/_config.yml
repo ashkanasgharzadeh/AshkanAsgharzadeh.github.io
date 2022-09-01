@@ -30,13 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: Ashkan Asgharzadeh
-description: [A short description of your site's purpose]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
