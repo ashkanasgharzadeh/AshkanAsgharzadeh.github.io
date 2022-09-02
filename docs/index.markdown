@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hi this is homepage!
+<img src="Homepage_photo.jpg" alt="Avatar">
