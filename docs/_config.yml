@@ -25,6 +25,7 @@ email: ashkan.asgharzadeh@um.es
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ashkanasgharzadeh
+markdown: kramdown
 
 # Build settings
 theme: minima
