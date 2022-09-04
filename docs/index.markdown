@@ -9,8 +9,6 @@
          }
       </style>
    </head>
-   <body>
-      <img src = "Homepage_photo.jpg" alt="my photo" width="300" height="300">
-   </body>
 </html>
 ---
+<img src = "Homepage_photo.jpg" alt="my photo" width="300" height="300">
