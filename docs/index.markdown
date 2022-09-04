@@ -13,4 +13,4 @@
    </head>
 </html>
 ---
-<img src = "Homepage_photo.jpg" alt="my photo" width="300" height="300" style="border-radius: 50%;border: 1px solid black;">
+<img src="Homepage_photo.jpg" alt="my photo" class="cover-photo">
