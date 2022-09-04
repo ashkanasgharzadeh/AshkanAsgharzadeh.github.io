@@ -1,9 +1,3 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
-img.cover-photo{
-  border-radius: 50%;
-  border: 1px solid red;
-}
+@import "main";
